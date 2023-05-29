@@ -1,2 +1,3 @@
 # EDA-Braulio
-Me falta la presentación que procuraré hacerla mañana, tengo pensado algo guay. Me falta también algún ajuste y alguna adición de gráficas (código).
+Me falta actualizar la presentación que la haré para el martes, tengo pensado algo guay. 
+Me falta también algún ajuste de código y una adición de gráficas.
